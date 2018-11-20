@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/about-image1.66d0b590.jpg"
   },
   {
-    "revision": "c95b0f7808040423d020",
-    "url": "/static/css/main.dc3a4952.chunk.css"
+    "revision": "66e28a97d1a106562dba",
+    "url": "/static/css/main.bde6679f.chunk.css"
   },
   {
     "revision": "89a45719c3bc92bbda65",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/home-photo.06f38dd2.jpg"
   },
   {
-    "revision": "c95b0f7808040423d020",
-    "url": "/static/js/main.c95b0f78.chunk.js"
+    "revision": "66e28a97d1a106562dba",
+    "url": "/static/js/main.66e28a97.chunk.js"
   },
   {
     "revision": "ff4593e86e2c9be052e272b7f8bb97c0",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/ITC-Avant-Garde-Gothic-LT-Bold.3573f9b2.otf"
   },
   {
-    "revision": "1af3051a21d54200917450c42e3405d0",
+    "revision": "57a23afcbc1550a5798e429cbce7f2a0",
     "url": "/index.html"
   }
 ];
