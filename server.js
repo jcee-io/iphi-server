@@ -15,6 +15,8 @@ app.use(express.static(__dirname + '/dist'));
 
 app.get('/iphi2/calendar.php', async (req, res) => {
   try {
+    console.log(req);
+    console.log(req.body, req.query, req.params);
     const { data } = await axios.get(calendarURL, { params: { ...req.query } });
     res.send(data);
   } catch (err) {
